@@ -1,1 +1,3 @@
-[master1.txt]
+[hello1.txt]
+hello world
+안녕하세요.

@@ -1,3 +1,6 @@
 hello3.txt
 Welcome!!!
+Hi!
+Hey!
+Good!
 THE END.

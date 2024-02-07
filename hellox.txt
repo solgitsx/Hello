@@ -4,4 +4,5 @@ Hi!
 Hey!
 Good!
 Hello.
+[br-rel01] 안녕?
 THE END
